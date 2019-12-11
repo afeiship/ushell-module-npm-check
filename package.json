@@ -1,0 +1,24 @@
+{
+  "name": "ushell-module-npm-check",
+  "version": "1.0.0",
+  "description": "Npm check.",
+  "main": "index.sh",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afeiship/ushell-module-npm-check.git"
+  },
+  "keywords": [
+    "ushell",
+    "unix",
+    "shell",
+    "ushell-module-npm-check"
+  ],
+  "authors": [
+    "feizheng <1290657123@qq.com>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afeiship/ushell-module-npm-check/issues"
+  },
+  "homepage": "https://github.com/afeiship/ushell-module-npm-check"
+}
