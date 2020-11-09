@@ -3,7 +3,7 @@
 
 ## installation
 ```shell
-npm i -S afeiship/ushell-module-npm-check
+npm i -S @jswork/ushell-module-npm-check
 ```
 
 ## resources

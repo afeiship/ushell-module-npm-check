@@ -1,5 +1,5 @@
 {
-  "name": "ushell-module-npm-check",
+  "name": "@jswork/ushell-module-npm-check",
   "version": "1.0.0",
   "description": "Npm check.",
   "main": "index.sh",
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/afeiship/ushell-module-npm-check/issues"
   },
-  "homepage": "https://github.com/afeiship/ushell-module-npm-check"
+  "homepage": "https://github.com/afeiship/ushell-module-npm-check",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
 }
